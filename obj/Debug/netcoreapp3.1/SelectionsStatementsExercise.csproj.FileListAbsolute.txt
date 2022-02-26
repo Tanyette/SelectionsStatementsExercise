@@ -1,0 +1,14 @@
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\bin\Debug\netcoreapp3.1\SelectionsStatementsExercise.exe
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\bin\Debug\netcoreapp3.1\SelectionsStatementsExercise.deps.json
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\bin\Debug\netcoreapp3.1\SelectionsStatementsExercise.runtimeconfig.json
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\bin\Debug\netcoreapp3.1\SelectionsStatementsExercise.runtimeconfig.dev.json
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\bin\Debug\netcoreapp3.1\SelectionsStatementsExercise.dll
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\bin\Debug\netcoreapp3.1\SelectionsStatementsExercise.pdb
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\obj\Debug\netcoreapp3.1\SelectionsStatementsExercise.csproj.AssemblyReference.cache
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\obj\Debug\netcoreapp3.1\SelectionsStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\obj\Debug\netcoreapp3.1\SelectionsStatementsExercise.AssemblyInfoInputs.cache
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\obj\Debug\netcoreapp3.1\SelectionsStatementsExercise.AssemblyInfo.cs
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\obj\Debug\netcoreapp3.1\SelectionsStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\obj\Debug\netcoreapp3.1\SelectionsStatementsExercise.dll
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\obj\Debug\netcoreapp3.1\SelectionsStatementsExercise.pdb
+C:\Users\bwaff\repos\SelectionsStatementsExercise\SelectionsStatementsExercise\obj\Debug\netcoreapp3.1\SelectionsStatementsExercise.genruntimeconfig.cache
